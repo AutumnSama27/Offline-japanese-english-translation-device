@@ -1,0 +1,1 @@
+# Offline-japanese-english-translation-device
