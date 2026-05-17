@@ -4,6 +4,7 @@
 This project is an offline Japanese-English audio-to-audio translation device prototype.
 
 The system records speech from a microphone, detects whether the speaker is using Japanese or English, translates the speech into the other language, and outputs the translated result as speech.
+In order to use piper, unzip the piper.zip and put it in the same folder.
 
 ## Features
 
