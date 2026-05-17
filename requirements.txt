@@ -1,0 +1,9 @@
+torch
+transformers
+sentencepiece
+faster-whisper
+sounddevice
+soundfile
+numpy
+requests
+sacremoses
